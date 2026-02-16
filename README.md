@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Liquid Glass Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=6,11,20,24&text=ISHITA%20SINGH&fontSize=70&fontColor=fff&animation=fadeIn&stroke=667eea&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=gradient&customColorList=6,11,20,24&text=ISHITA%20SINGH&fontSize=60&fontColor=fff&animation=fadeIn&stroke=667eea&strokeWidth=2" width="100%"/>
 
 <!-- Animated Tech Stack Icons Floating -->
 <p align="center">
@@ -15,9 +15,9 @@
 
 <br>
 
-<!-- Dynamic Typing Animation with Multiple Lines -->
+<!-- Dynamic Typing Animation with Better Sizing -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=667EEA&center=true&vCenter=true&width=940&lines=Mobile+Application+Engineer+%7C+YellowSense+Technologies;REST+API+Architect+%7C+Backend+%2B+Frontend+Developer;Building+Production-Ready+Cross-Platform+Solutions;Open-Source+Contributor+%7C+AI+%2B+ML+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=2000&color=667EEA&center=true&vCenter=true&width=900&height=80&lines=Mobile+App+Engineer+%7C+YellowSense+Technologies;REST+API+Developer+%7C+Full-Stack+Engineer;Cross-Platform+Mobile+Solutions;Open-Source+Contributor+%7C+AI+Enthusiast" alt="Typing SVG" />
 </p>
 
 <br>
@@ -53,35 +53,20 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-```typescript
-const ishita = {
-    role: "SDE Intern - Mobile Application Engineer",
-    company: "YellowSense Technologies Pvt Ltd",
-    location: "Bangalore, India",
-    currentFocus: ["Mobile Development", "REST APIs", "Full-Stack Engineering"],
-    
-    techStack: {
-        mobile: ["React Native", "Expo", "Cross-Platform Apps"],
-        backend: ["Node.js", "Express", "RESTful APIs", "Prisma ORM"],
-        frontend: ["React", "Next.js", "Tailwind CSS", "Framer Motion"],
-        databases: ["PostgreSQL", "MySQL", "MongoDB"],
-        ai_ml: ["OpenAI", "Groq", "Google Vision API", "OCR Systems"]
-    },
-    
-    openSource: ["Tailwind CSS", "DenoLand"],
-    
-    funFact: "Building production-grade mobile apps while contributing to open source! 🚀"
-};
-```
+**SDE Intern - Mobile Application Engineer** at **YellowSense Technologies Pvt Ltd**, Bangalore 🚀
+
+Full-stack engineer specializing in mobile application development, REST API architecture, and production-ready systems. Currently building cross-platform mobile apps and scalable backend services with modern tech stacks.
 
 <br>
 
-**🎯 Current Status:**
-- 💼 Working at **YellowSense Technologies** building scalable mobile applications
-- 🔨 Developing RESTful APIs and integrating them with mobile frontends
-- 🌱 Learning advanced system design and cloud architecture patterns
-- 👥 Contributing to open-source projects and building AI-powered solutions
-- 📱 Specializing in cross-platform mobile development with React Native
+**🎯 Current Focus:**
+- 💼 Building scalable mobile applications with **React Native** and **Expo**
+- 🔨 Developing **RESTful APIs** and integrating them with mobile frontends
+- 🌱 Learning advanced **system design** and cloud architecture patterns
+- 👥 Contributing to **open-source projects** like Tailwind CSS and DenoLand
+- 📱 Specializing in **cross-platform development** with AI/ML integrations
+
+**🛠️ Tech Expertise:** React Native • Node.js • Express • Prisma • PostgreSQL • MySQL • MongoDB • OpenAI • Groq • Google Vision API
 
 <br>
 
@@ -110,13 +95,10 @@ const ishita = {
 
 <img src="https://img.shields.io/badge/Bangalore-Karnataka-orange?style=flat-square" />
 
-```yaml
-Responsibilities:
-  - Mobile App Development (React Native)
-  - REST API Design & Integration
-  - Full-Stack Feature Implementation
-  - Production-Grade Code Delivery
-```
+📱 Developing cross-platform mobile applications with React Native  
+🔌 Building and maintaining RESTful APIs for mobile-backend integration  
+💻 Contributing to full-stack feature implementation across the tech stack  
+🏗️ Delivering production-grade code in a fast-paced startup environment
 
 🔗 [YellowSense Technologies](https://www.yellowsense.in/)
 
@@ -128,13 +110,10 @@ Responsibilities:
 
 <img src="https://img.shields.io/badge/Remote-Internship-blue?style=flat-square" />
 
-```yaml
-Achievements:
-  - Automated Backend Workflows
-  - Production Bug Resolution
-  - Agile Team Collaboration
-  - Clean Code Practices
-```
+🔧 Automated backend workflows using Python  
+🛠️ Enhanced system stability through production bug resolution  
+👥 Collaborated in Agile environment with cross-functional teams  
+📝 Maintained clean, readable codebase with industry best practices
 
 </td>
 </tr>
@@ -412,33 +391,19 @@ Modern camera app with real-time filters, effects, and theme customization.
 
 <div align="center">
 
-```javascript
-class EngineeringMindset {
-    constructor() {
-        this.principles = {
-            build: "🏗️ Production-ready from day one",
-            optimize: "⚡ Design for 10x scale",
-            automate: "🤖 Manual processes are technical debt",
-            communicate: "📝 Code is for humans first, machines second",
-            iterate: "🔄 Ship MVPs, gather feedback, improve",
-            test: "✅ If it's not tested, it's broken",
-            document: "📚 Future you will thank present you"
-        };
-    }
-    
-    async shipCode() {
-        while (this.learning) {
-            await this.code();
-            await this.review();
-            await this.refactor();
-            this.knowledge++;
-        }
-    }
-}
+**🏗️ Production-ready from day one** — Every feature ships with error handling, logging, and monitoring
 
-const ishita = new EngineeringMindset();
-ishita.shipCode();
-```
+**⚡ Design for 10x scale** — Build systems that handle growth without architectural rewrites
+
+**🤖 Automate relentlessly** — Manual processes are technical debt waiting to happen
+
+**📝 Code is communication** — Write for humans first, machines second
+
+**🔄 Ship MVPs, iterate fast** — Perfect is the enemy of done, gather feedback and improve
+
+**✅ Test everything** — If it's not tested, it's broken. Period.
+
+**📚 Document thoroughly** — Future you will thank present you
 
 </div>
 
