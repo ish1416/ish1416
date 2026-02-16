@@ -1,202 +1,505 @@
 <div align="center">
 
-<!-- Animated Header with Gradient -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=ISHITA%20SINGH&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
+<!-- Liquid Glass Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=6,11,20,24&text=ISHITA%20SINGH&fontSize=70&fontColor=fff&animation=fadeIn&stroke=667eea&strokeWidth=2" width="100%"/>
 
-<h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer;AI+Systems+Developer;Production-Grade+Architecture;Open-Source+Contributor" alt="Typing SVG" />
-</h3>
+<!-- Animated Tech Stack Icons Floating -->
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-bottom: 0px;" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishita-singh-0b8449339/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ish1416/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishita.singh01@adypu.edu.in)
+<br>
+
+<!-- Dynamic Typing Animation with Multiple Lines -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=667EEA&center=true&vCenter=true&width=940&lines=Mobile+Application+Engineer+%7C+YellowSense+Technologies;REST+API+Architect+%7C+Backend+%2B+Frontend+Developer;Building+Production-Ready+Cross-Platform+Solutions;Open-Source+Contributor+%7C+AI+%2B+ML+Enthusiast" alt="Typing SVG" />
+</p>
+
+<br>
+
+<!-- Glassmorphism Style Social Links -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/ishita-singh-0b8449339/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/ish1416/">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&style=plastic" alt="GitHub"/>
+  </a>
+  <a href="mailto:ishita.singh01@adypu.edu.in">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=plastic" alt="Email"/>
+  </a>
+</p>
+
+<br>
+
+<!-- Animated Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=ish1416&label=Profile%20Views&color=667eea&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
 <br>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Animated Rainbow Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 🚀 About Me
-
-Full-stack engineer specializing in **scalable web applications**, **AI-powered systems**, and **production-ready architecture**. Experienced in building enterprise-grade solutions with modern tech stacks including React, Node.js, and PostgreSQL.
-
-🔹 Strong focus on REST API development, automation workflows, and performance optimization  
-🔹 Open-source contributor with merged PRs to **Tailwind CSS** and **DenoLand**  
-🔹 Building AI-driven applications with LLMs, OCR systems, and intelligent automation
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 💼 Professional Experience
-
-<details open>
-<summary><b>Python Developer Intern</b> @ AiiQA Innovation <i>(June 2025 - August 2025)</i></summary>
 <br>
 
-- 🔧 Automated backend workflows using Python, improving processing efficiency
-- 🛠️ Enhanced system stability by resolving critical backend bugs during production
-- 👥 Collaborated in Agile environment with cross-functional teams
-- 📝 Maintained clean, readable codebase with industry best practices
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> **About Me**
 
-</details>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🎓 Education
-
-**Bachelor of Technology** - *Artificial Intelligence & Machine Learning*  
-Newton School of Technology, ADYPU, Pune | 2024 - 2028
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🛠️ Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **🤖 AI Study Buddy** | Cross-platform mobile app with OCR and AI-powered quiz generation | React Native • Expo • OpenAI • Google Vision |
-| **🏠 Hostel Management** | Enterprise-grade hostel management with automated room allocation | React • Node.js • Prisma • MySQL • JWT |
-| **💼 CareerAI** | AI-powered resume analysis and job matching platform | React • Node.js • Groq • Stripe • Cloudinary |
-| **📷 SnapCamPro** | Modern camera application with real-time filters and effects | React • Vite • Framer Motion • HTML5 API |
-| **👽 Alien Hobby Chronicles** | Interactive website showcasing advanced CSS animations | HTML5 • CSS3 • Advanced Animations |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🌟 Open Source Contributions
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-      <br><sub>Merged PRs to one of the most widely-used CSS frameworks</sub>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/DenoLand-000000?style=for-the-badge&logo=deno&logoColor=white" />
-      <br><sub>Active contributor to the modern JavaScript runtime</sub>
-    </td>
-  </tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 💻 Tech Stack
-
-<div align="center">
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### AI & Tools
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-000000?style=for-the-badge&logo=ai&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ish1416&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=667eea&text_color=c9d1d9&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ish1416&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&langs_count=8" />
-
-</div>
-
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=ish1416&theme=react&hide_border=true&background=0D1117&ring=667eea&fire=667eea&currStreakLabel=c9d1d9)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ish1416&custom_title=Contribution%20Graph&bg_color=0D1117&color=667eea&line=667eea&point=c9d1d9&area_color=667eea&area=true&hide_border=true)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🏆 Certifications & Recognition
-
-<div align="center">
-
-| Certificate | Issuer | Focus Area |
-|------------|--------|------------|
-| **Python Development & Automation** | AiiQA Innovation | Backend Development & Automation |
-| **AI For Everyone** | DeepLearning.AI | AI Fundamentals & Applications |
-
-</div>
-
-🥇 **Inter-School Extempore Competition Winner** - First Place  
-🎤 **Public Speaking & Debate** - Active participant in competitive events  
-🤖 **Technical Workshops** - Robotics and embedded systems training
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 💡 Engineering Philosophy
-
-```javascript
-const philosophy = {
-  build: "Production-ready from day one",
-  optimize: "Design for 10x scale",
-  automate: "Manual processes are technical debt",
-  communicate: "Code is for humans first, machines second",
-  iterate: "Ship MVPs, gather feedback, improve"
+```typescript
+const ishita = {
+    role: "SDE Intern - Mobile Application Engineer",
+    company: "YellowSense Technologies Pvt Ltd",
+    location: "Bangalore, India",
+    currentFocus: ["Mobile Development", "REST APIs", "Full-Stack Engineering"],
+    
+    techStack: {
+        mobile: ["React Native", "Expo", "Cross-Platform Apps"],
+        backend: ["Node.js", "Express", "RESTful APIs", "Prisma ORM"],
+        frontend: ["React", "Next.js", "Tailwind CSS", "Framer Motion"],
+        databases: ["PostgreSQL", "MySQL", "MongoDB"],
+        ai_ml: ["OpenAI", "Groq", "Google Vision API", "OCR Systems"]
+    },
+    
+    openSource: ["Tailwind CSS", "DenoLand"],
+    
+    funFact: "Building production-grade mobile apps while contributing to open source! 🚀"
 };
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 
-## 📫 Let's Connect
+**🎯 Current Status:**
+- 💼 Working at **YellowSense Technologies** building scalable mobile applications
+- 🔨 Developing RESTful APIs and integrating them with mobile frontends
+- 🌱 Learning advanced system design and cloud architecture patterns
+- 👥 Contributing to open-source projects and building AI-powered solutions
+- 📱 Specializing in cross-platform mobile development with React Native
 
+<br>
+
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ish1416/ish1416/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ish1416/ish1416/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ish1416/ish1416/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px"> **Professional Journey**
+
+<br>
+
+<!-- Timeline Style Experience Cards -->
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 **SDE Intern - Mobile Application Engineer**
+**YellowSense Technologies Pvt Ltd** | *Jan 2025 - Present*
+
+<img src="https://img.shields.io/badge/Bangalore-Karnataka-orange?style=flat-square" />
+
+```yaml
+Responsibilities:
+  - Mobile App Development (React Native)
+  - REST API Design & Integration
+  - Full-Stack Feature Implementation
+  - Production-Grade Code Delivery
+```
+
+🔗 [YellowSense Technologies](https://www.yellowsense.in/)
+
+</td>
+<td width="50%">
+
+### 🐍 **Python Developer Intern**
+**AiiQA Innovation** | *Jun 2025 - Aug 2025*
+
+<img src="https://img.shields.io/badge/Remote-Internship-blue?style=flat-square" />
+
+```yaml
+Achievements:
+  - Automated Backend Workflows
+  - Production Bug Resolution
+  - Agile Team Collaboration
+  - Clean Code Practices
+```
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> **Tech Arsenal**
+
+<br>
+
+<!-- Animated Tech Stack with Liquid Design -->
+<details open>
+<summary><b>🎨 Frontend Universe</b></summary>
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,sass,vite,redux" />
+  <br>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+</p>
+
+</details>
+
+<details open>
+<summary><b>⚙️ Backend Powerhouse</b></summary>
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgresql,mongodb,mysql" />
+  <br>
+  <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/TiDB-000000?style=for-the-badge&logo=databricks&logoColor=white" />
+</p>
+
+</details>
+
+<details open>
+<summary><b>🧠 AI & Machine Learning</b></summary>
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge&logo=ai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Vision-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/OCR_Systems-FF6F00?style=for-the-badge&logo=scanner&logoColor=white" />
+</p>
+
+</details>
+
+<details open>
+<summary><b>💻 Languages & Core</b></summary>
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,cpp,html,css" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ish1416&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9" />
+</p>
+
+</details>
+
+<details open>
+<summary><b>🛠️ Tools & Platforms</b></summary>
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,docker" />
+  <br>
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+</p>
+
+</details>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40px"> **Featured Projects**
+
+<br>
+
+<!-- Project Cards with Glassmorphism Effect -->
 <div align="center">
 
-**Open to collaborating on full-stack projects, AI applications, and open-source contributions**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Available for software engineering, backend development, and AI/ML engineering opportunities
+### 🤖 **AI Study Buddy**
+*React Native • Expo • OpenAI • Google Vision*
 
-[![Email](https://img.shields.io/badge/Email-ishita.singh01@adypu.edu.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishita.singh01@adypu.edu.in)
-[![GitHub](https://img.shields.io/badge/GitHub-ish1416-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ish1416)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishita-singh-0b8449339/)
+Cross-platform mobile app with OCR text extraction and AI-powered quiz generation with gamified learning.
+
+[![Repo](https://img.shields.io/badge/Repo-View_Code-667eea?style=for-the-badge&logo=github)](https://github.com/ish1416/)
+
+</td>
+<td width="50%" valign="top">
+
+### 💼 **CareerAI**
+*React • Node.js • Groq • Stripe • Cloudinary*
+
+AI-driven resume analysis, job matching platform with real-time data extraction and payment integration.
+
+[![Repo](https://img.shields.io/badge/Repo-View_Code-667eea?style=for-the-badge&logo=github)](https://github.com/ish1416/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏠 **Hostel Management**
+*React • Node.js • Prisma • MySQL • JWT*
+
+Enterprise hostel management with automated room allocation and admin dashboard.
+
+[![Repo](https://img.shields.io/badge/Repo-View_Code-667eea?style=for-the-badge&logo=github)](https://github.com/ish1416/)
+
+</td>
+<td width="50%" valign="top">
+
+### 📷 **SnapCamPro**
+*React • Vite • Framer Motion • HTML5 API*
+
+Modern camera app with real-time filters, effects, and theme customization.
+
+[![Repo](https://img.shields.io/badge/Repo-View_Code-667eea?style=for-the-badge&logo=github)](https://github.com/ish1416/)
+
+</td>
+</tr>
+</table>
 
 </div>
 
 <br>
 
-<!-- Animated Footer -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35px"> **GitHub Analytics**
+
+<br>
+
 <div align="center">
-  
-**✨ Currently building scalable AI systems and contributing to open source ✨**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<!-- Animated Stats Cards with Glassmorphism -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ish1416&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=667eea&text_color=c9d1d9&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=ish1416&theme=tokyonight&hide_border=true&background=0D1117&ring=667eea&fire=667eea&currStreakLabel=c9d1d9&dates=c9d1d9" />
 
+<br><br>
+
+<!-- 3D Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ish1416&custom_title=Contribution%20Activity%20Graph&bg_color=0D1117&color=667eea&line=667eea&point=c9d1d9&area_color=667eea&area=true&hide_border=true&theme=tokyo-night" width="100%">
+
+<br>
+
+<!-- Trophy Showcase -->
+<img src="https://github-profile-trophy.vercel.app/?username=ish1416&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%">
+
+<br>
+
+<!-- Detailed Language Stats -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ish1416&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&langs_count=10&hide=jupyter%20notebook" width="45%">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ish1416&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&layout=compact" width="45%">
+
+</div>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 🌟 **Open Source Contributions**
+
+<br>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="80px" height="80px" />
+<br><br>
+<h3>Tailwind CSS</h3>
+<sub>Merged PRs to the world's most popular utility-first CSS framework</sub>
+<br><br>
+<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
+</td>
+
+<td align="center" width="33%">
+<br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/denojs/denojs-original.svg" width="80px" height="80px" />
+<br><br>
+<h3>DenoLand</h3>
+<sub>Contributing to the modern JavaScript/TypeScript runtime ecosystem</sub>
+<br><br>
+<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
+</td>
+
+<td align="center" width="33%">
+<br>
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="80px" height="80px" />
+<br><br>
+<h3>Community Impact</h3>
+<sub>Focus on code quality, documentation, and developer experience</sub>
+<br><br>
+<img src="https://img.shields.io/badge/Impact-High-important?style=for-the-badge" />
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 🎓 **Education & Certifications**
+
+<br>
+
+<table>
+<tr>
+<td width="60%">
+
+### 🎯 **Bachelor of Technology**
+**Artificial Intelligence & Machine Learning**  
+*Newton School of Technology, ADYPU, Pune*  
+2024 - 2028
+
+<br>
+
+**Core Focus Areas:**
+- 🧠 Machine Learning & Deep Learning
+- 🤖 AI Systems & Neural Networks
+- 📊 Data Structures & Algorithms
+- 🏗️ System Design & Architecture
+
+</td>
+<td width="40%">
+
+### 📜 **Certifications**
+
+<img src="https://img.shields.io/badge/Python_Development-AiiQA-yellow?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/AI_For_Everyone-DeepLearning.AI-blue?style=for-the-badge" />
+
+<br>
+
+**Achievements:**
+- 🥇 Inter-School Extempore Winner
+- 🎤 Debate & Public Speaking
+- 🤖 Robotics Workshop
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 💭 **Engineering Philosophy**
+
+<br>
+
+<div align="center">
+
+```javascript
+class EngineeringMindset {
+    constructor() {
+        this.principles = {
+            build: "🏗️ Production-ready from day one",
+            optimize: "⚡ Design for 10x scale",
+            automate: "🤖 Manual processes are technical debt",
+            communicate: "📝 Code is for humans first, machines second",
+            iterate: "🔄 Ship MVPs, gather feedback, improve",
+            test: "✅ If it's not tested, it's broken",
+            document: "📚 Future you will thank present you"
+        };
+    }
+    
+    async shipCode() {
+        while (this.learning) {
+            await this.code();
+            await this.review();
+            await this.refactor();
+            this.knowledge++;
+        }
+    }
+}
+
+const ishita = new EngineeringMindset();
+ishita.shipCode();
+```
+
+</div>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 📬 **Let's Connect & Collaborate**
+
+<br>
+
+<div align="center">
+
+<!-- Animated Connect Card -->
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/Bottom_up.svg" width="100%">
+
+<br><br>
+
+**🚀 Open to collaborating on:**
+- Mobile Application Development (React Native, Cross-Platform)
+- Full-Stack Web Applications (MERN/PERN Stack)
+- AI-Powered Solutions & Automation
+- Open-Source Contributions
+- Freelance & Contract Work
+
+<br>
+
+**💼 Available for:**
+- Software Engineering Roles
+- Mobile Development Positions
+- Backend/Full-Stack Engineering
+- AI/ML Engineering Opportunities
+
+<br><br>
+
+<!-- Social Links with Hover Animation -->
+<p align="center">
+  <a href="mailto:ishita.singh01@adypu.edu.in">
+    <img src="https://img.shields.io/badge/Email-ishita.singh01@adypu.edu.in-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
+  </a>
+  <a href="https://github.com/ish1416">
+    <img src="https://img.shields.io/badge/GitHub-ish1416-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ishita-singh-0b8449339/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<br>
+
+<!-- Animated Typing Footer -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=667EEA&center=true&vCenter=true&width=800&lines=💼+Currently+working+at+YellowSense+Technologies;📱+Building+scalable+mobile+apps+%2B+REST+APIs;🌟+Contributing+to+open+source+%2B+AI+projects;💡+Always+learning%2C+always+building!" alt="Footer" />
+
+<br><br>
+
+<!-- Wave Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=120&section=footer&animation=twinkling" width="100%">
+
+</div>
+
+<!-- Visitor Counter -->
+<div align="center">
+  <img src="https://count.getloli.com/get/@ish1416?theme=rule34" alt="Visitor Count" />
 </div>
