@@ -49,39 +49,30 @@
 
 <br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> **About Me**
+## **About Me**
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-**SDE Intern - Mobile Application Engineer** at **YellowSense Technologies Pvt Ltd**, Bangalore 🚀
+**SDE Intern - Mobile Application Engineer** at **YellowSense Technologies Pvt Ltd**, Bangalore
 
 Full-stack engineer specializing in mobile application development, REST API architecture, and production-ready systems. Currently building cross-platform mobile apps and scalable backend services with modern tech stacks.
 
 <br>
 
-**🎯 Current Focus:**
-- 💼 Building scalable mobile applications with **React Native** and **Expo**
-- 🔨 Developing **RESTful APIs** and integrating them with mobile frontends
-- 🌱 Learning advanced **system design** and cloud architecture patterns
-- 👥 Contributing to **open-source projects** like Tailwind CSS and DenoLand
-- 📱 Specializing in **cross-platform development** with AI/ML integrations
+**Current Focus:**
+- Building scalable mobile applications with React Native and Expo
+- Developing RESTful APIs and integrating them with mobile frontends
+- Learning advanced system design and cloud architecture patterns
+- Contributing to open-source projects like Tailwind CSS and DenoLand
+- Specializing in cross-platform development with AI/ML integrations
 
-**🛠️ Tech Expertise:** React Native • Node.js • Express • Prisma • PostgreSQL • MySQL • MongoDB • OpenAI • Groq • Google Vision API
-
-<br>
-
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ish1416/ish1416/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ish1416/ish1416/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ish1416/ish1416/output/github-contribution-grid-snake.svg">
-</picture>
+**Tech Expertise:** React Native • Node.js • Express • Prisma • PostgreSQL • MySQL • MongoDB • OpenAI • Groq • Google Vision API
 
 <br>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px"> **Professional Journey**
+## **Professional Journey**
 
 <br>
 
@@ -90,30 +81,30 @@ Full-stack engineer specializing in mobile application development, REST API arc
 <tr>
 <td width="50%">
 
-### 🚀 **SDE Intern - Mobile Application Engineer**
+### **SDE Intern - Mobile Application Engineer**
 **YellowSense Technologies Pvt Ltd** | *Jan 2025 - Present*
 
 <img src="https://img.shields.io/badge/Bangalore-Karnataka-orange?style=flat-square" />
 
-📱 Developing cross-platform mobile applications with React Native  
-🔌 Building and maintaining RESTful APIs for mobile-backend integration  
-💻 Contributing to full-stack feature implementation across the tech stack  
-🏗️ Delivering production-grade code in a fast-paced startup environment
+Developing cross-platform mobile applications with React Native  
+Building and maintaining RESTful APIs for mobile-backend integration  
+Contributing to full-stack feature implementation across the tech stack  
+Delivering production-grade code in a fast-paced startup environment
 
-🔗 [YellowSense Technologies](https://www.yellowsense.in/)
+[YellowSense Technologies](https://www.yellowsense.in/)
 
 </td>
 <td width="50%">
 
-### 🐍 **Python Developer Intern**
+### **Python Developer Intern**
 **AiiQA Innovation** | *Jun 2025 - Aug 2025*
 
 <img src="https://img.shields.io/badge/Remote-Internship-blue?style=flat-square" />
 
-🔧 Automated backend workflows using Python  
-🛠️ Enhanced system stability through production bug resolution  
-👥 Collaborated in Agile environment with cross-functional teams  
-📝 Maintained clean, readable codebase with industry best practices
+Automated backend workflows using Python  
+Enhanced system stability through production bug resolution  
+Collaborated in Agile environment with cross-functional teams  
+Maintained clean, readable codebase with industry best practices
 
 </td>
 </tr>
@@ -123,13 +114,13 @@ Full-stack engineer specializing in mobile application development, REST API arc
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> **Tech Arsenal**
+## **Tech Arsenal**
 
 <br>
 
 <!-- Animated Tech Stack with Liquid Design -->
 <details open>
-<summary><b>🎨 Frontend Universe</b></summary>
+<summary><b>Frontend Universe</b></summary>
 <br>
 
 <p align="center">
@@ -144,7 +135,7 @@ Full-stack engineer specializing in mobile application development, REST API arc
 </details>
 
 <details open>
-<summary><b>⚙️ Backend Powerhouse</b></summary>
+<summary><b>Backend Powerhouse</b></summary>
 <br>
 
 <p align="center">
@@ -158,7 +149,7 @@ Full-stack engineer specializing in mobile application development, REST API arc
 </details>
 
 <details open>
-<summary><b>🧠 AI & Machine Learning</b></summary>
+<summary><b>AI & Machine Learning</b></summary>
 <br>
 
 <p align="center">
@@ -172,7 +163,7 @@ Full-stack engineer specializing in mobile application development, REST API arc
 </details>
 
 <details open>
-<summary><b>💻 Languages & Core</b></summary>
+<summary><b>Languages & Core</b></summary>
 <br>
 
 <p align="center">
@@ -184,7 +175,7 @@ Full-stack engineer specializing in mobile application development, REST API arc
 </details>
 
 <details open>
-<summary><b>🛠️ Tools & Platforms</b></summary>
+<summary><b>Tools & Platforms</b></summary>
 <br>
 
 <p align="center">
@@ -202,7 +193,7 @@ Full-stack engineer specializing in mobile application development, REST API arc
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40px"> **Featured Projects**
+## **Featured Projects**
 
 <br>
 
@@ -213,7 +204,7 @@ Full-stack engineer specializing in mobile application development, REST API arc
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 **AI Study Buddy**
+### **AI Study Buddy**
 *React Native • Expo • OpenAI • Google Vision*
 
 Cross-platform mobile app with OCR text extraction and AI-powered quiz generation with gamified learning.
@@ -223,7 +214,7 @@ Cross-platform mobile app with OCR text extraction and AI-powered quiz generatio
 </td>
 <td width="50%" valign="top">
 
-### 💼 **CareerAI**
+### **CareerAI**
 *React • Node.js • Groq • Stripe • Cloudinary*
 
 AI-driven resume analysis, job matching platform with real-time data extraction and payment integration.
@@ -235,7 +226,7 @@ AI-driven resume analysis, job matching platform with real-time data extraction 
 <tr>
 <td width="50%" valign="top">
 
-### 🏠 **Hostel Management**
+### **Hostel Management**
 *React • Node.js • Prisma • MySQL • JWT*
 
 Enterprise hostel management with automated room allocation and admin dashboard.
@@ -245,7 +236,7 @@ Enterprise hostel management with automated room allocation and admin dashboard.
 </td>
 <td width="50%" valign="top">
 
-### 📷 **SnapCamPro**
+### **SnapCamPro**
 *React • Vite • Framer Motion • HTML5 API*
 
 Modern camera app with real-time filters, effects, and theme customization.
@@ -262,7 +253,7 @@ Modern camera app with real-time filters, effects, and theme customization.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35px"> **GitHub Analytics**
+## **GitHub Analytics**
 
 <br>
 
@@ -294,7 +285,7 @@ Modern camera app with real-time filters, effects, and theme customization.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 🌟 **Open Source Contributions**
+## **Open Source Contributions**
 
 <br>
 
@@ -304,7 +295,7 @@ Modern camera app with real-time filters, effects, and theme customization.
 <tr>
 <td align="center" width="33%">
 <br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="80px" height="80px" />
+<img src="https://skillicons.dev/icons?i=tailwind" width="80px" height="80px" />
 <br><br>
 <h3>Tailwind CSS</h3>
 <sub>Merged PRs to the world's most popular utility-first CSS framework</sub>
@@ -314,7 +305,7 @@ Modern camera app with real-time filters, effects, and theme customization.
 
 <td align="center" width="33%">
 <br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/denojs/denojs-original.svg" width="80px" height="80px" />
+<img src="https://skillicons.dev/icons?i=deno" width="80px" height="80px" />
 <br><br>
 <h3>DenoLand</h3>
 <sub>Contributing to the modern JavaScript/TypeScript runtime ecosystem</sub>
@@ -340,7 +331,7 @@ Modern camera app with real-time filters, effects, and theme customization.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 🎓 **Education & Certifications**
+## **Education & Certifications**
 
 <br>
 
@@ -348,7 +339,7 @@ Modern camera app with real-time filters, effects, and theme customization.
 <tr>
 <td width="60%">
 
-### 🎯 **Bachelor of Technology**
+### **Bachelor of Technology**
 **Artificial Intelligence & Machine Learning**  
 *Newton School of Technology, ADYPU, Pune*  
 2024 - 2028
@@ -356,15 +347,15 @@ Modern camera app with real-time filters, effects, and theme customization.
 <br>
 
 **Core Focus Areas:**
-- 🧠 Machine Learning & Deep Learning
-- 🤖 AI Systems & Neural Networks
-- 📊 Data Structures & Algorithms
-- 🏗️ System Design & Architecture
+- Machine Learning & Deep Learning
+- AI Systems & Neural Networks
+- Data Structures & Algorithms
+- System Design & Architecture
 
 </td>
 <td width="40%">
 
-### 📜 **Certifications**
+### **Certifications**
 
 <img src="https://img.shields.io/badge/Python_Development-AiiQA-yellow?style=for-the-badge" />
 
@@ -373,9 +364,9 @@ Modern camera app with real-time filters, effects, and theme customization.
 <br>
 
 **Achievements:**
-- 🥇 Inter-School Extempore Winner
-- 🎤 Debate & Public Speaking
-- 🤖 Robotics Workshop
+- Inter-School Extempore Winner
+- Debate & Public Speaking
+- Robotics Workshop
 
 </td>
 </tr>
@@ -385,25 +376,25 @@ Modern camera app with real-time filters, effects, and theme customization.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 💭 **Engineering Philosophy**
+## **Engineering Philosophy**
 
 <br>
 
 <div align="center">
 
-**🏗️ Production-ready from day one** — Every feature ships with error handling, logging, and monitoring
+**Production-ready from day one** — Every feature ships with error handling, logging, and monitoring
 
-**⚡ Design for 10x scale** — Build systems that handle growth without architectural rewrites
+**Design for 10x scale** — Build systems that handle growth without architectural rewrites
 
-**🤖 Automate relentlessly** — Manual processes are technical debt waiting to happen
+**Automate relentlessly** — Manual processes are technical debt waiting to happen
 
-**📝 Code is communication** — Write for humans first, machines second
+**Code is communication** — Write for humans first, machines second
 
-**🔄 Ship MVPs, iterate fast** — Perfect is the enemy of done, gather feedback and improve
+**Ship MVPs, iterate fast** — Perfect is the enemy of done, gather feedback and improve
 
-**✅ Test everything** — If it's not tested, it's broken. Period.
+**Test everything** — If it's not tested, it's broken. Period.
 
-**📚 Document thoroughly** — Future you will thank present you
+**Document thoroughly** — Future you will thank present you
 
 </div>
 
@@ -411,7 +402,7 @@ Modern camera app with real-time filters, effects, and theme customization.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 📬 **Let's Connect & Collaborate**
+## **Let's Connect & Collaborate**
 
 <br>
 
@@ -422,7 +413,7 @@ Modern camera app with real-time filters, effects, and theme customization.
 
 <br><br>
 
-**🚀 Open to collaborating on:**
+**Open to collaborating on:**
 - Mobile Application Development (React Native, Cross-Platform)
 - Full-Stack Web Applications (MERN/PERN Stack)
 - AI-Powered Solutions & Automation
@@ -431,7 +422,7 @@ Modern camera app with real-time filters, effects, and theme customization.
 
 <br>
 
-**💼 Available for:**
+**Available for:**
 - Software Engineering Roles
 - Mobile Development Positions
 - Backend/Full-Stack Engineering
@@ -455,7 +446,7 @@ Modern camera app with real-time filters, effects, and theme customization.
 <br>
 
 <!-- Animated Typing Footer -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=667EEA&center=true&vCenter=true&width=800&lines=💼+Currently+working+at+YellowSense+Technologies;📱+Building+scalable+mobile+apps+%2B+REST+APIs;🌟+Contributing+to+open+source+%2B+AI+projects;💡+Always+learning%2C+always+building!" alt="Footer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=667EEA&center=true&vCenter=true&width=800&lines=Currently+working+at+YellowSense+Technologies;Building+scalable+mobile+apps+and+REST+APIs;Contributing+to+open+source+and+AI+projects;Always+learning+and+building" alt="Footer" />
 
 <br><br>
 
