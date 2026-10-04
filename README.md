@@ -15,7 +15,7 @@
 
 <!-- Dynamic Typing SVG Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=1800&color=667EEA&center=true&vCenter=true&width=850&height=70&lines=Backend+Software+Engineer+%7C+Distributed+Systems;Open+Source+Contributor+%7C+GSoC+Aspirant;Architecting+High-Performance+APIs+%26+Microservices;Node.js+%E2%80%A2+TypeScript+%E2%80%A2+Python+%E2%80%A2+PostgreSQL+%E2%80%A2+Redis" alt="Ishita Singh Typing Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=1800&color=667EEA&center=true&vCenter=true&width=850&height=70&lines=Backend+Software+Engineer+%7C+Distributed+Systems;Architecting+High-Performance+APIs+%26+Microservices;Open+Source+Contributor+%7C+Continuous+Learner;Node.js+%E2%80%A2+TypeScript+%E2%80%A2+Python+%E2%80%A2+PostgreSQL+%E2%80%A2+Redis" alt="Ishita Singh Typing Banner" />
 </p>
 
 <!-- Social & Quick Action Badges -->
@@ -26,8 +26,8 @@
   <a href="https://github.com/ish1416">
     <img src="https://img.shields.io/badge/GitHub-ish1416-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:ishita.singh01@adypu.edu.in">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:ish1442006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ish1442006@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
@@ -46,13 +46,11 @@
 
 I am a passionate **Backend Software Engineer** dedicated to engineering resilient distributed systems, scalable microservices, and high-throughput APIs. With a strong foundation in Computer Science and Artificial Intelligence, I focus on system design, database query optimization, and cloud-native architecture.
 
-Actively preparing for **Google Summer of Code (GSoC)** and deeply engaged with open-source ecosystems, contributing clean, tested, and maintainable code to modern developer tools and frameworks.
-
 <br>
 
-- 🛠️ **Current Focus**: Designing fault-tolerant backend architectures, microservices & event-driven systems
+- 🛠️ **Core Focus**: Designing fault-tolerant backend architectures, microservices & event-driven systems
 - ⚡ **Performance & Data**: Relational & NoSQL schema design, indexing, caching with Redis, and ACID transactions
-- 🌐 **Open Source & GSoC**: Contributing to OSS projects, building developer tools, and mastering Git workflows
+- 🌐 **Engineering Standards**: Rigorous unit/integration testing, clean API contracts, and CI/CD automation
 - 🧠 **AI & Backend Integration**: Building low-latency backend pipelines leveraging LLMs, OCR, and vector embeddings
 
 <br>
@@ -91,52 +89,6 @@ Actively preparing for **Google Summer of Code (GSoC)** and deeply engaged with 
 </td>
 </tr>
 </table>
-
-<br>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-## 🌟 **Open Source & GSoC Aspirations**
-
-<br>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-<br>
-<img src="https://skillicons.dev/icons?i=tailwind" width="70px" height="70px" />
-<br><br>
-<h3>Open Ecosystem</h3>
-<sub>Contributing bug fixes, enhancements, and docs to open source repositories</sub>
-<br><br>
-<img src="https://img.shields.io/badge/Open_Source-Active-667eea?style=for-the-badge" />
-</td>
-
-<td align="center" width="33%">
-<br>
-<img src="https://skillicons.dev/icons?i=git" width="70px" height="70px" />
-<br><br>
-<h3>GSoC Preparation</h3>
-<sub>Focus on distributed backend tools, developer tooling, and systems architecture</sub>
-<br><br>
-<img src="https://img.shields.io/badge/GSoC-Aspirant-4285F4?style=for-the-badge" />
-</td>
-
-<td align="center" width="33%">
-<br>
-<img src="https://skillicons.dev/icons?i=docker" width="70px" height="70px" />
-<br><br>
-<h3>Code Excellence</h3>
-<sub>Rigorous unit/integration testing, clean PR conventions, and documentation</sub>
-<br><br>
-<img src="https://img.shields.io/badge/Quality-Production_Ready-success?style=for-the-badge" />
-</td>
-</tr>
-</table>
-
-</div>
 
 <br>
 
@@ -313,7 +265,7 @@ Cross-platform intelligent learning suite featuring OCR textbook parsing, automa
 
 ### **Bachelor of Technology (B.Tech)**
 **Artificial Intelligence & Machine Learning**  
-*Newton School of Technology, ADYPU, Pune*  
+*Newton School of Technology*  
 *2024 - 2028*
 
 **Key Focus Areas:**
@@ -335,7 +287,7 @@ Cross-platform intelligent learning suite featuring OCR textbook parsing, automa
 **Highlights:**
 - Active participant in Competitive Coding & Hackathons
 - Public Speaking & Debate Winner
-- Open Source Contributor & Technical Writer
+- Technical Documentation & System Design
 
 </td>
 </tr>
@@ -355,7 +307,7 @@ Cross-platform intelligent learning suite featuring OCR textbook parsing, automa
 
 ```
 ⚡ Build for High Concurrency  •  🔒 Security by Default  •  🧪 Comprehensive Test Coverage
-📈 Scalable Database Design   •  📖 Self-Documenting APIs •  🤝 Open Source Collaboration
+📈 Scalable Database Design   •  📖 Self-Documenting APIs •  🚀 Continuous Optimization
 ```
 
 </div>
@@ -372,15 +324,14 @@ Cross-platform intelligent learning suite featuring OCR textbook parsing, automa
 
 **I am always excited to connect for:**
 - 💼 Backend Engineering & Distributed Systems Roles
-- 🌐 Open Source Collaboration & GSoC Projects
 - 🛠️ Scalable Microservice Architecture & API Design
-- 🚀 High-Impact Technical Innovations
+- 🚀 High-Impact Technical Innovations & Collaborations
 
 <br>
 
 <p align="center">
-  <a href="mailto:ishita.singh01@adypu.edu.in">
-    <img src="https://img.shields.io/badge/Email-ishita.singh01@adypu.edu.in-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:ish1442006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ish1442006@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/ish1416">
     <img src="https://img.shields.io/badge/GitHub-ish1416-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -393,7 +344,7 @@ Cross-platform intelligent learning suite featuring OCR textbook parsing, automa
 <br>
 
 <!-- Animated Typing Footer -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&color=667EEA&center=true&vCenter=true&width=800&lines=Building+scalable+backend+systems+and+REST+APIs;Contributing+to+open-source+ecosystems+and+GSoC;Committed+to+clean+code%2C+testing%2C+and+great+architecture" alt="Typing Footer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&color=667EEA&center=true&vCenter=true&width=800&lines=Building+scalable+backend+systems+and+REST+APIs;Designing+high-throughput+microservices;Committed+to+clean+code%2C+testing%2C+and+great+architecture" alt="Typing Footer" />
 
 <br><br>
 
